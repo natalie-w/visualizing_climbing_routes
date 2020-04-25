@@ -1,2 +1,3 @@
 # visualizing_climbing_routes
-Fun data viz for climbing routes around the world, data from mountain project https://www.mountainproject.com/.
+
+Fun data viz website for climbing routes around the world. Data from [Mountain Project](https://www.mountainproject.com/), [8a.nu](https://www.kaggle.com/dcohen21/8anu-climbing-logbook/data#), and [Mendeley](https://data.mendeley.com/datasets/59bzskfh8z/1).
